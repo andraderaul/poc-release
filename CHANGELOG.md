@@ -1,3 +1,5 @@
+## [1.1.1](https://github.com/andraderaul/poc-release/compare/v1.1.0...v1.1.1) (2022-04-05)
+
 # [1.1.0](https://github.com/andraderaul/poc-release/compare/v1.0.0...v1.1.0) (2022-04-05)
 
 
