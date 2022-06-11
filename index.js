@@ -20,10 +20,15 @@ function div(a, b) {
   }
   return a / b;
 }
+function breakchange(a) {
+  console.log(a);
+  console.log(a);
+}
 
 module.exports = {
   add,
   sub,
   mult,
   div,
+  breakchange,
 };
