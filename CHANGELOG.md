@@ -1,3 +1,15 @@
+# [2.0.0](https://github.com/andraderaul/poc-release/compare/v1.1.1...v2.0.0) (2022-06-11)
+
+
+### Features
+
+* new function ([e291c03](https://github.com/andraderaul/poc-release/commit/e291c03fb81befd7b4dcdecaeb79fd32103399d9))
+
+
+### BREAKING CHANGES
+
+* added a new function
+
 ## [1.1.1](https://github.com/andraderaul/poc-release/compare/v1.1.0...v1.1.1) (2022-04-05)
 
 # [1.1.0](https://github.com/andraderaul/poc-release/compare/v1.0.0...v1.1.0) (2022-04-05)
